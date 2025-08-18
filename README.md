@@ -11,7 +11,11 @@ DeepDive into System Design
 #### 1주차(2025.08.12 ~ 2025.08.18)
 - **범위** 
 1장 (사용자 수에 따른 규모 확장성) ~ 4장(처리율 제한 장치의 설계)
+
 - **세미나**
+    - 장우: [Rate limiter](https://github.com/BackEndDeepDive/System-Design/tree/main/choijangwoo)
+    - 민우: [안정 해시 설계](https://github.com/BackEndDeepDive/System-Design/tree/main/YukMinWoo/week-01)
+    - 현재: [사용자 수에 따른 규모 확장성](https://github.com/BackEndDeepDive/System-Design/blob/main/kimhyeonjae/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EA%B7%9C%EB%AA%A8%20%ED%99%95%EC%9E%A5%EC%84%B1.md)
 
 
 ## Conventions
